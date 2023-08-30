@@ -1,0 +1,11 @@
+.drop-name,.nav-link{
+    font-weight: 500;
+    color: black;
+}
+.second-nav{
+    gap: 15px;
+}
+.drop-name:hover,.nav-link:hover{
+    color:#0AAA01;
+
+}

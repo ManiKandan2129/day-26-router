@@ -1,0 +1,38 @@
+.nav-router{
+    height: max-content;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    padding: 10px 0;
+    
+}
+.item{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.item:hover{
+    color:#0AAA01;
+    border-bottom:3px solid #0AAA01;
+}
+.mx-auto{
+    gap: 50px;
+}
+.navbar-toggler{
+    margin-left: 20px;
+    background-color:#0AAA01 ;  
+}
+.navbar-collapse{
+    padding-left: 30px;
+}
+.nav-name{
+    font-weight: 600;
+    
+}
+@media only screen and (min-width:992px) {
+    .nav-name{
+        display: none;
+    }
+    
+}
+
+
+
